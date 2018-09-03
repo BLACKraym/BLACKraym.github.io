@@ -16,7 +16,7 @@
       <hr>
       <h3>It's awesome to have you here.<br>
       <br>
-      Want to read some powerful books online?</h3>
+      <h3>Want to read some powerful books online?</h3>
       <button> Get started</button>
       
       <h3>Or it's going to be awesome to <a href='#'> EXPLORE</a></h3>
