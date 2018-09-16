@@ -166,7 +166,89 @@
           <li><a class='ft-anchor' href="#"> About us</a></li>
         </ul>
   
-
+</nav>
+     <main>
+        <article  class="article">
+           <h2> Welcome to poet camp</h2>
+             <p> Welcome to the new age world-class poets Camp.We do orgnise helpful events that developed one's Poetry potential as follow: Stage confidence, Expression,Speaking skills and many more.</p>
+             <p>Some interesting we do are,</p>
+                <dl>
+                   
+                   <dt>Poetry competition</dt>
+                      <dd> We arranged Poetry competition every  early autumn, when its about time, the date will ne published <a href="#">here</a></dd>
+                  
+                    <dt> Stage Confidence</dt>
+                       <dd>Million of Prominent world-class poets that are doing well on stage today in term of confidence was breeded here,feel free to <a href="#">join</a></dd>
+                    
+                    <dt>Expression</dt>
+                       <dd> Good expression speak vivid message you want to pass to your audience, and also call the attention of your audience to look at you and automatically they will  like to listen at your words</dd>
+                    <dt>Speaking skills</dt>
+                        <dd>Many poets are wrestling with communicating to their audience. <a href="#">Here</a> we help many poets from different country around the world to communicate their minds to  their audience</dd>
+                        
+                  </dl>
+                  <p>If you are interesting to join check <a href="#">our Catalog</a> to view our program list</p>
+        </article>
+        
+        <article class="article1">
+          <ul>
+           <h2>Ongoing classes</h2>
+           <li><a href="#">Developing stage confidence</a></li>
+           <li><a href="#">Developing Speaking skills</a></li>
+           <li><a href="#">Developing communicative expression</a></li>
+         </ul>
+         <>
+         <ul>
+         <h2>Ongoing events</h2>
+           <li><a class='' href="#"> Shakeperian competition</a></li>
+           <li><a class='' href="#"> 24 World country competition</a></li>
+           <li><a class='' href="#"> 10 Winners competition</a></li>
+          </ul>
+         
+        </article>
+      
+        <aside>
+        
+           <ul>
+             <li><a href="#"><img src="images/Library.jpg" alt="  "></a></li>
+             <li><a href="#"><img src="images/business.jpg" alt="  "></a></li>
+             <li><a href="#"><img src="images/Library.jpg" alt="  "></a></li>
+             <li><a href="#"><img src="images/business.jpg" alt="  "></a></li>
+              
+           </ul>
+        </aside>
+       
+     </main>
+     <footer>
+     <ul>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+     </ul>
+     <ul>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        
+     </ul>
+      <ul>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+     </ul>
+      <ul>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+        <li><a class='ft-anchor' href="#"> Catalog </a></li>
+     </ul>
+        <p>©Copyright by Ray 2018 Allright reserved</p>
+     </footer>
+  <script src="script/main.js"></script>
+  </body>
+</html>
 
   
 
